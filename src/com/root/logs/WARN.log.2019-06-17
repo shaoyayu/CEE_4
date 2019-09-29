@@ -1,0 +1,5 @@
+2019-06-17 01:30:19,668 [main] [INFO ] [com.root.util.Log4jTest] - 普通的info测试
+2019-06-17 01:30:19,670 [main] [DEBUG] [com.root.util.Log4jTest] - 调试debug测试
+2019-06-17 01:30:19,670 [main] [ERROR] [com.root.util.Log4jTest] - error报错信息
+2019-06-17 01:30:19,670 [main] [WARN ] [com.root.util.Log4jTest] - 警告信息
+2019-06-17 01:30:19,670 [main] [FATAL] [com.root.util.Log4jTest] - 严重错误
