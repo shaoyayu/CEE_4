@@ -4,6 +4,14 @@ import com.shaoyuayu.entity.Career;
 
 import java.util.List;
 
+/**
+ *
+ * 查询不同的专业大类，专业小类，专业id
+ * 组合查询
+ * =============修改时间============
+ * 在原来的基础上添加一个学校专业等级评估，
+ * 2019年9月29日
+ */
 public interface CareerDao {
     /**
      * 根据专业层次
